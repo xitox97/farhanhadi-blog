@@ -4,7 +4,11 @@ require(`dotenv`).config({
 
 module.exports = {
   siteMetadata: {
-    siteTitleAlt: `Minimal Blog - Gatsby Theme`,
+    siteTitle: `Farhan`,
+    siteTitleAlt: `Farhan Hadi`,
+    siteHeadline: `Developer Blog - Farhan Hadi`,
+    siteDescription: `Sharing programming related stuff, Kongsi pengalaman dalam menjadi Full Stack programmer, Laravel Malaysia, Vuejs Malaysia`,
+    author: `@MuhdFrhan`,
   },
   plugins: [
     {
@@ -23,11 +27,11 @@ module.exports = {
         externalLinks: [
           {
             name: `Twitter`,
-            url: `https://twitter.com/lekoarts_de`,
+            url: `https://twitter.com/MuhdFrhan`,
           },
           {
-            name: `Instagram`,
-            url: `https://www.instagram.com/lekoarts.de/`,
+            name: `Github`,
+            url: `https://github.com/xitox97`,
           },
         ],
       },
