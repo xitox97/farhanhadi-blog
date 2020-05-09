@@ -9,6 +9,7 @@ module.exports = {
     siteHeadline: `Developer Blog - Farhan Hadi`,
     siteDescription: `Sharing programming related stuff, Kongsi pengalaman dalam menjadi Full Stack programmer, Laravel Malaysia, Vuejs Malaysia`,
     author: `@MuhdFrhan`,
+    siteImage: "/banner.jpg"
   },
   plugins: [
     {
